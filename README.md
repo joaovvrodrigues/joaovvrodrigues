@@ -19,10 +19,15 @@ Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e App
 
 
 <br>
+<br>
+
+
+<div align = "center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12153883088&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12153883088&redirect=true)
 
 <br/>
+</div>
    
   
 ## 💻Tecnologias
