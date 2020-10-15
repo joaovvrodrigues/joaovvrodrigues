@@ -46,5 +46,5 @@ Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e App
   - RAP
   - Vida, Verdade e Universo
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" />
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> <hr> </div>
