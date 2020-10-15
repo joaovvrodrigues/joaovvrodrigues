@@ -4,7 +4,7 @@
 Me chamo João Vitor, sou graduando em Engenharia da Computação. Este é meu github onde utilizo para trabalhar para controle dos meus projetos pessoais e privados em Dart/Flutter e incluir projetos aleatórios que pretendo dar início sobre análise de dados, principalmente sobre músicas e artistas do RAP Nacional, tenho umas das maiores playlists de RAP do Brasil no Spotify 17 Mil seguidores, <a href="https://open.spotify.com/playlist/0I1S18ZEJ5XwxZkglLHmEQ?si=MBlZyjjGTaOW2kUBZzaqjg"> Poetas no Topo </a>.
 Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e AppStore, pra tentar ajudar o comércio da minha cidade, deixe 5 estrelas lá ⭐⭐⭐⭐⭐. <a href="https://play.google.com/store/apps/details?id=com.ijapa.isands"> Mata Larica App </a>
 
-<a href="https://instagram.com/japadocontra"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/japadocontra">
   <img align="left" alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/japadocontra">
