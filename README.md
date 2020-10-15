@@ -53,4 +53,4 @@ Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e App
   - Vida, Verdade e Universo
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> <hr> </div>
+<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> <hr> </div>
