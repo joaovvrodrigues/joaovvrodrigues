@@ -21,13 +21,10 @@ Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e App
 <a href="https://open.spotify.com/user/12153883088">
   <img align="left" alt="Joao Vitor's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
-
-
 <br>
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12153883088&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12153883088&redirect=true)
-
 <br/>
 </div>
    
