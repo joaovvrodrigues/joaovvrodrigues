@@ -40,7 +40,7 @@ Inclusive tenho um app muito lindo com um nome muito icônico na PlayStore e App
   
   
 ## 🌱 Atualmente estou aprendendo 
-  - Análise de dados de API's de música
+  - Análise de dados de API's de músicas e filmes
   - Hackintosh
   
 ## 💬 Pergunte a mim sobre
