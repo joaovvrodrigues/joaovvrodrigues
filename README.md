@@ -22,6 +22,7 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 </a>
 <br>
 <br>
+</div>
    
 ## 💻Tecnologias
   - Flutter <img height=20px src="https://img.icons8.com/color/2x/flutter.png"> 
