@@ -24,13 +24,19 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 <br>
 </div>
    
+   
+   -----
+
 ## 💻Tecnologias
   - Flutter <img height=20px src="https://img.icons8.com/color/2x/flutter.png"> 
   - Dart
   - Python 🐍 
   - Análise de dados
-  
+  -----
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> <hr> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovvrodrigues&layout=compact&langs_count=10" />
+<a href="https://github.com/joaovvrodrigues">
+<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> </a> 
+  
+  <a href="https://github.com/joaovvrodrigues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovvrodrigues&layout=compact&langs_count=10" /> </a>
 
