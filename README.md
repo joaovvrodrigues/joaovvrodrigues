@@ -4,7 +4,7 @@
 <p align="center"><samp> Me chamo João Vitor, sou graduando em Engenharia da Computação. </samp></p>
 
 <p align="center">
- <a href="www.linkedin.com/in/joaovvrodrigues"><img alt="Joao Vitor's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/joaovvrodrigues"><img alt="Joao Vitor's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
  <a href="https://instagram.com/japadocontra"><img alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/japadocontra"><img alt="Joao Vitor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
  <a href="https://play.google.com/store/apps/developer?id=e-Comp+Solu%C3%A7%C3%B5es"><img alt="Mata Larica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" /></a>&nbsp;&nbsp;
