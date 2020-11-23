@@ -6,7 +6,7 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 
 
 
-<div align = "center">
+<p align="center">
   
   <a href="https://instagram.com/japadocontra">
   <img align="left" alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -22,10 +22,8 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 </a>
 <br>
 <br>
-</div>
-   
-   
-   -----
+</p>
+  
 
 ## 💻Tecnologias
 <p align="center">
@@ -33,12 +31,12 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 <img src="https://img.shields.io/badge/dart-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/flutter%20-%23007ACC.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-
+</p>
 <br>
 <br>
 
 ## ⭐ GitHub Stats
-
+<p align="center">
 <a href="https://github.com/joaovvrodrigues">
 <img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> </a> 
   
