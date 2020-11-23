@@ -17,6 +17,7 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
   <img align="left" alt="Joao Vitor's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 </center>
+<br>
   
 
 ## 💻Tecnologias
