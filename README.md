@@ -6,9 +6,13 @@
 <p align="center">
  <a href="https://instagram.com/japadocontra"><img alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/japadocontra"><img alt="Joao Vitor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
+ <a href="https://play.google.com/store/apps/details?id=com.ijapa.isands"><img alt="Mata Larica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" /></a>&nbsp;&nbsp;
+ <a href="https://apps.apple.com/br/app/apple-store/id1518882351"><img alt="Mata Larica" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/appstore.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/joaovvrodrigues"><img alt="Joao Vitor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/12153883088"><img alt="Joao Vitor's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /></a>&nbsp;&nbsp;
 
+ 
+ 
 <br>
   
 
