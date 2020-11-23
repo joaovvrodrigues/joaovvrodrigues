@@ -6,11 +6,11 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 
 
 
-<p align="center">
+<center>
   <a href="https://instagram.com/japadocontra">
   <img align="left" alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  </p>
+
 <a href="https://twitter.com/japadocontra">
   <img align="left" alt="Joao Vitor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,6 +20,7 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 <a href="https://open.spotify.com/user/12153883088">
   <img align="left" alt="Joao Vitor's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
+  </center>
 <br>
 <br>
 
