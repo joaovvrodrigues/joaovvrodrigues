@@ -4,18 +4,26 @@
 Me chamo João Vitor, sou graduando em Engenharia da Computação. 
 
 <center>
+<p align="center">
  <a href="https://instagram.com/japadocontra">
   <img align="left" alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+ </p>
+ <p align="center">
 <a href="https://twitter.com/japadocontra">
   <img align="left" alt="Joao Vitor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+  </p>
+  <p align="center">
 <a href="https://github.com/joaovvrodrigues">
   <img align="left" alt="Joao Vitor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+   </p>
+   <p align="center">
 <a href="https://open.spotify.com/user/12153883088">
   <img align="left" alt="Joao Vitor's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
+    </p>
 </center>
 <br>
   
@@ -24,7 +32,9 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 <p align="center">
 <img src="https://img.shields.io/badge/dart-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/flutter%20-%23007ACC.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0089D6?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="25"/>
 </p>
 
 ## ⭐ GitHub Stats
