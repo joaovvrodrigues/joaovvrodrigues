@@ -38,7 +38,7 @@ Me chamo João Vitor, sou graduando em Engenharia da Computação.
 <br>
 
 <a href="https://github.com/joaovvrodrigues">
-<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> </a> 
+<img src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_height=27" alt="Joao Vitor's GitHub Stats" /> </a> 
   
   <a href="https://github.com/joaovvrodrigues">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovvrodrigues&layout=compact&langs_count=10&theme=radical" /> </a>
