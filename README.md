@@ -3,7 +3,7 @@
 ## :man_technologist:	 Quem sou eu
 <p align="center"><samp> Me chamo João Vitor, sou graduando em Engenharia da Computação. </samp></p>
 
-<p align="center">
+<p align="center" style="background-color:white;">
  <a href="https://www.linkedin.com/in/joaovvrodrigues"><img alt="Joao Vitor's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
  <a href="https://instagram.com/japadocontra"><img alt="Joao Vitor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/japadocontra"><img alt="Joao Vitor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
