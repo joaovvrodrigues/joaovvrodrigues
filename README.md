@@ -1,6 +1,6 @@
 <h1 align="center"> Olá pessoa <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> </h1>
 
-## :man_technologist:	 Quem sou eu
+## :man_technologist: Quem sou eu
 <p align="center"><samp> Me chamo João Vitor, sou graduando em Engenharia da Computação. </samp></p>
 
 <p align="center" style="background-color:white;">
@@ -17,7 +17,7 @@
 <br>
   
 
-## 💻Tecnologias
+## 💻 Tecnologias
 <p align="center">
 <img src="https://img.shields.io/badge/dart-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/flutter%20-%23007ACC.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
