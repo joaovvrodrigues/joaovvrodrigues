@@ -1,4 +1,4 @@
-<h1 align="center"> Olá pessoa <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Olá pessoa <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="50"> </h1>
 
 ## :man_technologist: Quem sou eu
 <p align="center"><samp> Me chamo João Vitor, sou graduando em Engenharia da Computação. </samp></p>
